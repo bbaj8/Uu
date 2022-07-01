@@ -17,8 +17,8 @@ BOT_USERNAME = getenv("BOT_USERNAME")
 UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/ERTWF/wwwwaa")
 UPSTREAM_BRANCH = getenv("UPSTREM_BRANCH", "main")
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "60"))
-GROUP_SUPPORT = getenv("GROUP_SUPPORT", "faqek")
-UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "VFF35")
+GROUP_SUPPORT = getenv("GROUP_SUPPORT", "qqqlo")
+UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "R125r")
 
 # database, decorators, handlers mandatory vars
 MONGODB_URL = getenv("MONGODB_URL")
